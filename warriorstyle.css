@@ -1,0 +1,12 @@
+body {
+	background-image: url("http://images.clipartpanda.com/sky-clipart-cartoon-sky-clipart-1.jpg");
+}
+body, html {
+    height: 100%;
+	font-family: "fantasy", Luminari, fantasy;
+	text-align: center;
+}
+
+h2 {
+		text-indent: 8%;
+}
