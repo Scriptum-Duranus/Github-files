@@ -1,0 +1,18 @@
+
+body {
+	font-family: Georgia, Garamond, sans-serif;
+	background: #FFCC00 url("limabean.png");
+}
+
+div {
+	font-family: Century-Gothic, Futura, Verdana, sans-serif;
+	background-color: #F0F0F0;
+	color: #A4A400;
+}
+img {
+    float: right;
+    margin: 0 20px 20px 0;
+}
+h1,h2 {
+	text-align:center;
+}

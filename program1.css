@@ -1,0 +1,23 @@
+body {
+	background: powderblue url("http://www.clker.com/cliparts/t/C/9/m/Z/N/wok-md.png");
+}
+h1 {
+		text-align: center;
+}
+img {
+    float: left;
+    margin: 0 20px 20px 0;
+    width: 150px;
+    height: 150px;
+	border:5px solid black;
+}
+}
+
+p {
+    text-align: justify;
+    text-indent: 2em;
+}
+div {
+		border:1px solid black;
+		background-color:coral;
+}
